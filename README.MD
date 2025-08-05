@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Mathiw Fernández
 
-Soy **Técnico en Informática** en la Fuerza Aérea Uruguaya y desarrollador web junior en formación.  
-Actualmente estudio **Desarrollo Web** en Ceibal (Jóvenes a Programar) con ganas de crecer profesionalmente en el área de tecnología.
+Soy **Técnico en Informática** en la Fuerza Aérea Uruguaya, donde me desempeño dentro del **Servicio de Comunicaciones e Informática**.  
+Actualmente me estoy formando como **desarrollador web junior**, estudiando **Desarrollo Web** en Ceibal (Jóvenes a Programar), con muchas ganas de seguir creciendo en el mundo de la tecnología.
 
 ---
 
